@@ -1,0 +1,2 @@
+I just followed the template.md guide for my profile. For the actual things I decided to say. I started off my one line intro with my main thing(aka programming), along with a small reference to implication proposition. I also added the 3 programming laungauges im learning at the moment. C++ and Java at school. And Python at home. I also added non-related things like music for a sense of humanity and creativity. My email is there since I don't have a LinkedIn. My ask about me is fun imo. Overall i see this readme more about me than just work.
+
